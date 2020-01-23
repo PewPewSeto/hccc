@@ -1456,6 +1456,9 @@ button:focus {
   color: #fff;
   text-decoration: none;
   border-color: #eee; }
+.navbar-collapse.collapse.in {
+  display: block!important;
+}
 
 /*============ Start Blog Single Styles  =============*/
 .single-post-area .social-links {
